@@ -10,7 +10,7 @@ This repository is dedicated to exploring the application of machine learning te
 #### Use Cases:
 - Predicting molecular properties using cheminformatics features.
 - Identifying lead compounds for target-specific drug design.
-- Building QSAR models for structure-property relationships.
+- Building QSAR/QSPR models for structure-property relationships.
 
 #### Technologies Used:
 - **Programming Languages:** Python
